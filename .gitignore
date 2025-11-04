@@ -1,0 +1,22 @@
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Uu]ser[Ss]ettings/
+[Mm]emoryCaptures/
+*.pidb.meta
+*.pdb.meta
+sysinfo.txt
+crash-report.*
+# *.apk
+# *.aab
+*.unitypackage
+.DS_Store
+Thumbs.db
+.idea/
+.vs/
+*.sln
+*.csproj
+*.userprefs
